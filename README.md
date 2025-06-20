@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2 align="center">🌸 Oi, eu sou a Natalia Prestes! 🌸</h2>
+<h2 align="center">## 🌸 Oi, eu sou a Natalia! 👋🌸</h2>
 <p align="center">💻 Dev em formação | 🎨 Designer de coração | 🚀 Criativa, detalhista e apaixonada por transformar ideias em soluções reais</p>
 
 ---
